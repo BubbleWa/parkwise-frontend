@@ -1,0 +1,19 @@
+/* src/style.css */
+.chart-image {
+  max-width: 600px;
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+/*
+body {
+  background-image: url('/background.jpg');
+  background-size: cover;         
+  background-repeat: no-repeat;   
+  background-position: center;    
+}
+*/
+
+
